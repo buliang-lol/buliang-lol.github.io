@@ -1,6 +1,6 @@
 # 简洁导航模板开源 尽情修改、优化、享用
 
-Demo：https://buliang-lol.gtihub.io
+Demo：https://buliang-lol.github.io
 
 
 ## 🍓 导航地址发布页
@@ -23,7 +23,7 @@ Demo：https://buliang-lol.gtihub.io
 
 ### 预览：
 
-[点击查看预览页面](https://buliang-lol.gtihub.io)
+[点击查看预览页面](https://buliang-lol.github.io)
 
 
 ## 这个网页是一个简单的**导航地址发布页**，旨在为用户提供多种分类的有趣、实用或热点的网址链接。以下是对该网页的简要介绍：
